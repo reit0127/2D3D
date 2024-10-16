@@ -1,4 +1,4 @@
-### This Code allows the generation of spatila predictions of water depth using Danica's depth sensor data
+### This Code allows the generation of spatial predictions of water depth using Danica's depth sensor data
 
 ## Load required packages
 library(dplyr)
